@@ -1,2 +1,2 @@
 ## For git practice purpose
-![git init](D:\Practice\Images\gitInit.PNG?raw=true "Title")
+![git init](https://github.com/PoornaSaiNagendra/Practice/blob/main/Images/gitAdd.PNG?raw=true)
